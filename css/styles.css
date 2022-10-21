@@ -2157,3 +2157,8 @@ html {
 .text-justify {
     text-align: justify;
 }
+
+.company-logo {
+    margin: 2%;
+}
+
