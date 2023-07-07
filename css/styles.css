@@ -2161,4 +2161,6 @@ html {
 .company-logo {
     margin: 2%;
 }
-
+.social * a {
+    text-decoration: none;
+}
