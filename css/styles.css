@@ -1117,6 +1117,7 @@ h6.h5 {
     font-size: 28px;
     margin-right: 12px;
     transition: all 0.3s ease;
+    text-decoration: none;
 }
 
 .social a:hover {
@@ -1301,7 +1302,13 @@ section#experience #xsModule #xsCollapse.collapsing {
 }
 
 section#experience #xsModule a.collapsed::after {
-    content: "+ Show More";
+    content: "+ Show More";.social a {
+                               color: #fff;
+                               font-size: 28px;
+                               margin-right: 12px;
+                               transition: all 0.3s ease;
+
+                           }
 }
 
 section#experience #xsModule a:not(.collapsed)::after {
@@ -2160,7 +2167,4 @@ html {
 
 .company-logo {
     margin: 2%;
-}
-.social * a {
-    text-decoration: none;
 }
