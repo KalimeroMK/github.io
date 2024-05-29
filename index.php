@@ -18,8 +18,8 @@
     <meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1" name="viewport">
-    <title>Zoran Bogoevski - Senior Laravel & PHP Software Developer | Custom Solutions Expert</title>
-    <meta name="description" content="Zoran Bogoevski, a seasoned Senior Software Engineer and Laravel Developer with over 15 years of experience in PHP, Laravel, and custom software solutions. Explore my portfolio for innovative full-stack development projects.">
+    <title>Zoran Bogoevski - Senior Software Developer | Laravel & PHP</title>
+    <meta name="description" content="Zoran Bogoevski, a seasoned Senior Software Engineer and Laravel Developer with over 15 years of experience in PHP, Laravel, and custom software solutions.">
 
     <link rel="canonical" href="https://www.zorandev.info" />
 
@@ -78,8 +78,6 @@
             <div class="social my-4">
                 <a data-placement="bottom" data-toggle="tooltip" href="https://github.com/kalimeromk" rel="noreferrer"
                    target="_blank" title="Find me on Github">
-                    <?xml version="1.0" encoding="utf-8"?>
-                    <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
                     <svg fill="#ffffff" height="40" id="lni_lni-github-original"
                          style="enable-background:new 0 0 64 64;" version="1.1"
                          viewBox="0 0 64 64" width="40"
@@ -96,7 +94,6 @@
                 <a data-placement="bottom" data-toggle="tooltip" href="https://www.linkedin.com/in/zoran-bogoevski/"
                    rel="noreferrer"
                    target="_blank" title="Contact me on LinkedIn">
-                    <?xml version="1.0" encoding="utf-8"?>
                     <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
                     <svg fill="#ffffff" width="40" height="40" version="1.1" id="lni_lni-linkedin-original"
                          xmlns="http://www.w3.org/2000/svg"
@@ -110,7 +107,6 @@
                 <a data-placement="bottom" data-toggle="tooltip" href="mailto:zbogoevski@gmail.com" rel="noreferrer"
                    target="_blank"
                    title="Contact me via E-mail">
-                    <?xml version="1.0" encoding="utf-8"?>
                     <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
                     <svg fill="#ffffff" width="40" height="40" version="1.1" id="lni_lni-envelope"
                          xmlns="http://www.w3.org/2000/svg" x="0px"
@@ -1322,7 +1318,6 @@
 </div>
 <!-- button -->
 <a href="#top_" id="myBtn" title="Go to top">
-    <?xml version="1.0" encoding="utf-8"?>
     <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
     <svg fill="#081a35" height="40" id="lni_lni-arrow-up-circle" style="enable-background:new 0 0 64 64;" version="1.1"
          viewBox="0 0 64 64"
@@ -1341,8 +1336,8 @@
 <!--  -->
 </body>
 
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/main.js"></script>
+<script defer src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script defer src="js/bootstrap.min.js"></script>
+<script defer src="js/main.js"></script>
 </html>
 
